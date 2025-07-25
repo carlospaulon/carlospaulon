@@ -9,40 +9,25 @@ Me chamo Luis Carlos Paulon, estudante de Análise e Desenvolvimento de Sistemas
 ## ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="39" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL logo" height="39" />
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" alt="React logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="39" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL logo" height="39" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" height="39" />
 </div>
+
 
 <br/>
 <br/>
