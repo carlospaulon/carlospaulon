@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Luis Carlos Paulon, estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e estagiário como desenvolvedor full-stack na Compass UOL. Minha paixão pela tecnologia começou com a inspiração do meu primo, que me apresentou ao mundo da programação primeiramente com Java. Desde então, venho desenvolvendo soluções práticas, escaláveis e de qualidade, utilizando diversas tecnologias modernas para backend, integrando bancos de dados e atuando também no frontend. Tenho foco em aprendizado contínuo, inovação e colaboração em projetos que geram impacto.
+Me chamo Luis Carlos Paulon, estudante de Análise e Desenvolvimento de Sistemas na Unicesumar. Minha paixão pela tecnologia começou com a inspiração do meu primo, que me apresentou ao mundo da programação primeiramente com Java. Desde então, venho desenvolvendo soluções práticas, escaláveis e de qualidade, utilizando diversas tecnologias modernas para backend, integrando bancos de dados e atuando também no frontend. Tenho foco em aprendizado contínuo, inovação e colaboração em projetos que geram impacto.
 
 <br/>
 
